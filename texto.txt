@@ -1,0 +1,11 @@
+Lista de compras
+
+Requisitos:  
+
+-Salvar dados no LocalStorage (usado no jogo da velha) 
+-Usar bootstrap 
+-Usar JS para manipular os elementos HTML 
+-Possuir cadastro e exclusão de itens 
+-Criar esboço das telas e itens de funcionalidades (pode ser no papel ou word, powerpoint, etc) 
+-Realizar apresentação do projeto pronto 
+-Adicionar o projeto no GitHub
